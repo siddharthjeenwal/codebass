@@ -1,0 +1,378 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.header{
+    width: 100%;
+    height: 80px;
+    padding: 0 20px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mylink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 40px;
+
+}
+.mylink li{
+    list-style: none;
+}
+.mylink a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 0 10px;
+
+
+}
+.login{
+    padding-left: 20px;
+}
+.login a{
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.logo img{
+    width: 100px;
+}
+
+
+.one{
+    width: 500px;
+    
+    
+    background-color: #fff;
+    color: #000;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: left;
+    text-decoration: none;
+
+    
+}
+.new{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 50px;
+
+   
+}
+.hire a{
+    
+    font-size: 20px;
+    text-decoration: none;
+    background-color:#4E0FEA;
+    color: #fff;
+    
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.hire{
+    margin-top: 40px;
+    text-align: left;
+}
+.one h1{
+    font-size: 50px;
+
+}
+.one p{
+    font-size: 20px;
+}
+
+
+.two{
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.box
+{
+    width: 150px;
+   
+    margin: 80px 50px; 
+     
+}
+.box img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+    
+}
+.three{
+    justify-content: center;
+    align-items: center;
+
+    display: flex;
+}
+.four{
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+
+}
+.boxone{
+    width: 200px;
+    height: 400px;
+    color:black;
+    background-color:white;
+    padding: 20px;
+    margin: 10px 20px;
+    border: 2px solid black;
+    
+    text-align: center;
+    border-radius: 30px;
+}
+.boxone h5{
+    margin-top: 10px;
+}
+.five{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background{
+
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+    background-image: url("nasa-Q1p7bh3SHj8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* padding: 10px; */
+    padding-top: 50px;
+     
+}
+   /* .hadding{
+     width: 100%;
+    height: 200px; 
+    font-size: 30px;
+    color: #fff;
+    margin-bottom: 200px;
+     align-items: center;
+    justify-content: center;
+    text-align: center;  
+    
+} */
+.background h1{
+    font-size: 50px;
+   text-align: center; 
+/* margin-bottom: 400px; */
+color: #fff;
+}
+
+.boxtwo img{
+    width: 100%;
+    height: 100%;
+  
+}
+
+.boxtwo{
+    width: 300px;
+
+    text-align: center;
+    padding: 40px;
+    color: #fff;
+    background-color: #0006;
+    border-radius: 20px;
+
+}
+.bgimage
+{
+    width: 100px;
+    height: 80px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+.bgimage img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.back
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.backgroundtwo{
+    width: 100%;
+    height: 700px;
+    background-color: #f1f1f1;;
+}
+/* .backgroundtwo h1 { */
+    /* width: 100%;
+    height: 100px;
+    text-align: center; */
+     .backgroundtwo h1{
+    font-size: 58px;
+    
+    
+    text-align: center;
+    color: #2b2a2f;
+    width: 900px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+.boxthree img{
+    width: 100%;
+    height: 100%;
+}
+.boxthree{
+    width: 300px;
+    text-align: justify;
+
+   margin: auto;
+    padding: 40px;
+    color: #000;
+    
+    
+
+}
+.newthree{
+    width: 100px;
+    height: 80px;
+    
+  
+    margin-bottom: 10px;
+
+}
+.ppp{
+    display: flex;
+
+    text-align: center;
+    align-items: center;
+}
+
+.hadding{
+    font-size: 40px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.word {
+   margin: 30px;
+    border-radius: 100%;
+    width: 200px;
+    border: 9px solid #471aff;
+    font-size: 38px;
+    height: 82px;
+    text-align: center;
+    color: #471aff;
+}
+ .sss{
+    
+
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+} 
+
+.newfour{
+    width: 500px;
+    height: 500px;
+    
+    
+    text-align: justify;
+}
+.boxfour{
+
+    text-align: justify;
+    
+}
+.phototwo{
+    margin-right: 100px;
+}
+.ddd{
+    
+    display: flex;
+    
+    
+align-items: center;
+}
+
+.last{
+    width: 100%;
+    height: 200px;
+    background-color: #5f25f0;
+}
+.point{
+    font-size: 30px; 
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #fff;
+}
+
+.fff{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    color: #fff;
+    font-size: 25px;
+}
+.aaa a{  
+    font-size: 23px;
+    text-decoration: none;
+    background-color:#4E0FEA;
+    color: #fff;
+    
+    margin-top: 10px;
+    padding: 10px;
+    margin-right: 20px;
+
+}
+
+.bbb a{
+    font-style: normal;
+    font-size: 23px;
+    text-decoration: none;
+    background-color:#4E0FEA;
+    color: #fff;
+    
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 20px;
+
+}
+
+    .footer{
+        width: 100%;
+        height: 500px;
+        background-color: #4E0FEA;
+        
+    }
+     .fou{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    
+     }
+    
